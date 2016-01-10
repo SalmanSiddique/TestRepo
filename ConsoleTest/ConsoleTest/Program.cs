@@ -10,7 +10,7 @@ namespace ConsoleTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Committ Test");
+            Console.WriteLine("Changed!!");
             Console.ReadLine();
         }
     }
